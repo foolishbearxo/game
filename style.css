@@ -149,3 +149,33 @@
     left: 1060px;
     bottom: 1000px;
   }
+
+  .text1{
+    position: relative;
+    left: 30px;
+  }
+
+  .column6{
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+    position: relative;
+    left: 10px;
+  }
+
+  .column7{
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+    position: relative;
+    left: 120px;
+  }
+
+  .column8{
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+    position: relative;
+    left: 230px;
+  }
+
