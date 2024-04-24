@@ -1,0 +1,151 @@
+#all {
+    margin: 0 auto;
+    width: 800px;
+}
+
+::-webkit-scrollbar{
+    display:none;
+}
+
+.body{
+    height: 400px;
+}
+
+.topnav {
+    background-color: #E577A8;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .topnav a.active {
+    background-color: #AF265E;
+    color: white;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .card1{
+    position: relative;
+    left: 20px;
+    background-color: #f2f2f2;
+    padding: 5px ;
+    border-style: solid;
+    border-color: black;
+}
+  .card2{
+    background-color: #f2f2f2;
+    padding: 5px ;
+    border-style: solid;
+    border-color: black;
+  }
+
+  .card3{
+    background-color: #f2f2f2;
+    padding: 5px ;
+    border-style: solid;
+    border-color: black;
+  }
+
+  .card4{
+    background-color: #f2f2f2;
+    padding: 5px ;
+    border-style: solid;
+    border-color: black;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+    
+  }
+
+  .row {margin: 0 -5px;}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+  .btn{
+    background-color:  #AF265E;
+  }
+
+  .btn:hover {
+    background-color:  #E577A8;
+  }
+
+  .mb-3 {
+    position: relative;
+    left: 90px;
+  }
+
+  .btn1 {
+    position: relative;
+    left: 100px;
+    background-color:  #AF265E;
+  }
+
+  .image {
+    position: relative;
+    left: 550px;
+    bottom: 380px;
+
+  }
+
+  .text {
+    position: relative;
+    left: 100px;
+  }
+
+  .image1 {
+    position: relative;
+    left: 60px;
+  }
+
+  .image2 {
+    position: relative;
+    left: 550px;
+    bottom: 500px;
+  }
+
+  .image3 {
+    position: relative;
+    left: 1060px;
+    bottom: 1000px;
+  }
