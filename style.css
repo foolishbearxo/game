@@ -189,3 +189,26 @@
     left:  800px;
     bottom: 400px;
   }
+
+  .columnphoto
+{
+  
+  width: 25%;
+  padding: 0 10px;
+  margin-right: 500px;
+}
+
+.rowphoto{
+  margin: 0 -5px;
+}
+
+.cardphoto{
+    padding: 16px;
+    background-color: #f0cddd;
+}
+
+.rowindex{
+  position: relative;
+  top: 30px;
+  left: 380px;
+}
